@@ -70,6 +70,7 @@ const Home: NextPage = () => {
             </p>
           </a>
         </div>
+       
       </main>
 
       <footer className={styles.footer}>
